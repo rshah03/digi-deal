@@ -1,3 +1,7 @@
+# Digi Deal
+
+A digital card game inspired by Monopoly Deal.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
